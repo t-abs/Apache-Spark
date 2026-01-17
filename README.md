@@ -6,3 +6,6 @@ https://www.mssqltips.com/sqlservertip/7897/apache-sparks-dag-lazy-evaluation-op
 
 Documentation-
 https://www.tutorialspoint.com/apache_spark/index.htm
+
+SQL Spark Engine-
+https://medium.com/@sksami1997/spark-sql-engine-how-queries-are-optimized-and-executed-62cf5b3d3f84
