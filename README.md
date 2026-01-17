@@ -1,4 +1,3 @@
-<img width="1436" height="751" alt="Screenshot 2026-01-16 203648" src="https://github.com/user-attachments/assets/07ef8892-b7d5-4866-a8df-70d9dcf61b8c" /># Apache-Spark
 Important Concepts of  Spark
 
 DAG and Lazy Evaluation-
