@@ -38,6 +38,9 @@ Joins-(Representations)
 
 <img width="457" height="353" alt="image" src="https://github.com/user-attachments/assets/95afb6e6-80bb-4ad2-8314-1b141be95d46" />
 
+Joins Strategies-
+
+https://medium.com/@amarkrgupta96/join-strategies-in-apache-spark-a-hands-on-approach-d0696fc0a6c9
 
 
 
